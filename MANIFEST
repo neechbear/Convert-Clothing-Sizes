@@ -1,0 +1,9 @@
+lib/Convert/Clothing/Sizes.pm
+TODO
+README
+MANIFEST
+Makefile.PL
+INSTALL
+COPYING
+Changes
+t/01test.t
